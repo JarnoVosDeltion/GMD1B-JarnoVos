@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 243d7f6f3a4f7664bb64b5cdcafe506f
+timeCreated: 1477520220
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ball
+    100002: Bonus_Target
+    100004: Bouncer_Links
+    100006: Bouncer_Rechts
+    100008: Center_Bouncer_001
+    100010: Center_Bouncer_002
+    100012: Center_Bouncer_003
+    100014: Entry_Blocker
+    100016: Flipper_Extensie_Links
+    100018: Flipper_Extensie_Rechts
+    100020: Flipper_Links
+    100022: Flipper_Rechts
+    100024: Pinball_Machine
+    100026: //RootNode
+    100028: Top_Blocker_Left
+    100030: Top_Blocker_Right
+    100032: Top_Divider_001
+    100034: Top_Divider_002
+    100036: Top_Divider_003
+    100038: Top_Guide_Left
+    100040: Top_Guide_Right
+    100042: Triangle_Left
+    400000: Ball
+    400002: Bonus_Target
+    400004: Bouncer_Links
+    400006: Bouncer_Rechts
+    400008: Center_Bouncer_001
+    400010: Center_Bouncer_002
+    400012: Center_Bouncer_003
+    400014: Entry_Blocker
+    400016: Flipper_Extensie_Links
+    400018: Flipper_Extensie_Rechts
+    400020: Flipper_Links
+    400022: Flipper_Rechts
+    400024: Pinball_Machine
+    400026: //RootNode
+    400028: Top_Blocker_Left
+    400030: Top_Blocker_Right
+    400032: Top_Divider_001
+    400034: Top_Divider_002
+    400036: Top_Divider_003
+    400038: Top_Guide_Left
+    400040: Top_Guide_Right
+    400042: Triangle_Left
+    2300000: Ball
+    2300002: Bonus_Target
+    2300004: Bouncer_Links
+    2300006: Bouncer_Rechts
+    2300008: Center_Bouncer_001
+    2300010: Center_Bouncer_002
+    2300012: Center_Bouncer_003
+    2300014: Entry_Blocker
+    2300016: Flipper_Extensie_Links
+    2300018: Flipper_Extensie_Rechts
+    2300020: Flipper_Links
+    2300022: Flipper_Rechts
+    2300024: Pinball_Machine
+    2300026: Top_Blocker_Left
+    2300028: Top_Blocker_Right
+    2300030: Top_Divider_001
+    2300032: Top_Divider_002
+    2300034: Top_Divider_003
+    2300036: Top_Guide_Left
+    2300038: Top_Guide_Right
+    2300040: Triangle_Left
+    3300000: Ball
+    3300002: Bonus_Target
+    3300004: Bouncer_Links
+    3300006: Bouncer_Rechts
+    3300008: Center_Bouncer_001
+    3300010: Center_Bouncer_002
+    3300012: Center_Bouncer_003
+    3300014: Entry_Blocker
+    3300016: Flipper_Extensie_Links
+    3300018: Flipper_Extensie_Rechts
+    3300020: Flipper_Links
+    3300022: Flipper_Rechts
+    3300024: Pinball_Machine
+    3300026: Top_Blocker_Left
+    3300028: Top_Blocker_Right
+    3300030: Top_Divider_001
+    3300032: Top_Divider_002
+    3300034: Top_Divider_003
+    3300036: Top_Guide_Left
+    3300038: Top_Guide_Right
+    3300040: Triangle_Left
+    4300000: Pinball_Machine
+    4300002: Flipper_Extensie_Rechts
+    4300004: Flipper_Rechts
+    4300006: Bouncer_Rechts
+    4300008: Ball
+    4300010: Entry_Blocker
+    4300012: Top_Guide_Right
+    4300014: Triangle_Left
+    4300016: Top_Divider_002
+    4300018: Top_Divider_003
+    4300020: Center_Bouncer_001
+    4300022: Center_Bouncer_002
+    4300024: Center_Bouncer_003
+    4300026: Flipper_Links
+    4300028: Flipper_Extensie_Links
+    4300030: Bouncer_Links
+    4300032: Top_Guide_Left
+    4300034: Top_Divider_001
+    4300036: Bonus_Target
+    4300038: Top_Blocker_Right
+    4300040: Top_Blocker_Left
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
