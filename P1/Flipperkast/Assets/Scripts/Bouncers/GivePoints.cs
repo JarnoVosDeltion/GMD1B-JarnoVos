@@ -10,13 +10,14 @@ public class GivePoints : MonoBehaviour {
     Renderer materialRenderer;
     Score scoreScript;
 
-
+    //Zoekt het score script op en vraagt naar de Renderer component.
 	void Start ()
     {
         scoreScript = GameObject.Find("Manager").GetComponent<Score>();
         materialRenderer = GetComponent<Renderer>();
 	}
 	
+    //Wanneer hij wordt aangeraakt zal hij het Addscore aanropen en het aantal verdiende punten meesturen en start coroutine ChangingColors();
 	void OnCollisionEnter(Collision other)
     {
         if(other.gameObject.tag == "Pinball")
@@ -26,6 +27,7 @@ public class GivePoints : MonoBehaviour {
         }
     }
 
+    //Zal de material tijdelijk vervangen.
     IEnumerator ChangingColors()
     {
         materialRenderer.material = temporaryMaterial;

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 243d7f6f3a4f7664bb64b5cdcafe506f
-timeCreated: 1477520220
+guid: 6cdc88811ed0180429cc5b5f45068c1d
+timeCreated: 1478467853
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -19,14 +19,15 @@ ModelImporter:
     100022: Flipper_Rechts
     100024: Pinball_Machine
     100026: //RootNode
-    100028: Top_Blocker_Left
-    100030: Top_Blocker_Right
-    100032: Top_Divider_001
-    100034: Top_Divider_002
-    100036: Top_Divider_003
-    100038: Top_Guide_Left
-    100040: Top_Guide_Right
-    100042: Triangle_Left
+    100028: ScoreBoard
+    100030: Top_Blocker_Left
+    100032: Top_Blocker_Right
+    100034: Top_Divider_001
+    100036: Top_Divider_002
+    100038: Top_Divider_003
+    100040: Top_Guide_Left
+    100042: Top_Guide_Right
+    100044: Triangle_Left
     400000: Ball
     400002: Bonus_Target
     400004: Bouncer_Links
@@ -41,14 +42,15 @@ ModelImporter:
     400022: Flipper_Rechts
     400024: Pinball_Machine
     400026: //RootNode
-    400028: Top_Blocker_Left
-    400030: Top_Blocker_Right
-    400032: Top_Divider_001
-    400034: Top_Divider_002
-    400036: Top_Divider_003
-    400038: Top_Guide_Left
-    400040: Top_Guide_Right
-    400042: Triangle_Left
+    400028: ScoreBoard
+    400030: Top_Blocker_Left
+    400032: Top_Blocker_Right
+    400034: Top_Divider_001
+    400036: Top_Divider_002
+    400038: Top_Divider_003
+    400040: Top_Guide_Left
+    400042: Top_Guide_Right
+    400044: Triangle_Left
     2300000: Ball
     2300002: Bonus_Target
     2300004: Bouncer_Links
@@ -62,14 +64,15 @@ ModelImporter:
     2300020: Flipper_Links
     2300022: Flipper_Rechts
     2300024: Pinball_Machine
-    2300026: Top_Blocker_Left
-    2300028: Top_Blocker_Right
-    2300030: Top_Divider_001
-    2300032: Top_Divider_002
-    2300034: Top_Divider_003
-    2300036: Top_Guide_Left
-    2300038: Top_Guide_Right
-    2300040: Triangle_Left
+    2300026: ScoreBoard
+    2300028: Top_Blocker_Left
+    2300030: Top_Blocker_Right
+    2300032: Top_Divider_001
+    2300034: Top_Divider_002
+    2300036: Top_Divider_003
+    2300038: Top_Guide_Left
+    2300040: Top_Guide_Right
+    2300042: Triangle_Left
     3300000: Ball
     3300002: Bonus_Target
     3300004: Bouncer_Links
@@ -83,14 +86,15 @@ ModelImporter:
     3300020: Flipper_Links
     3300022: Flipper_Rechts
     3300024: Pinball_Machine
-    3300026: Top_Blocker_Left
-    3300028: Top_Blocker_Right
-    3300030: Top_Divider_001
-    3300032: Top_Divider_002
-    3300034: Top_Divider_003
-    3300036: Top_Guide_Left
-    3300038: Top_Guide_Right
-    3300040: Triangle_Left
+    3300026: ScoreBoard
+    3300028: Top_Blocker_Left
+    3300030: Top_Blocker_Right
+    3300032: Top_Divider_001
+    3300034: Top_Divider_002
+    3300036: Top_Divider_003
+    3300038: Top_Guide_Left
+    3300040: Top_Guide_Right
+    3300042: Triangle_Left
     4300000: Pinball_Machine
     4300002: Flipper_Extensie_Rechts
     4300004: Flipper_Rechts
@@ -112,6 +116,7 @@ ModelImporter:
     4300036: Bonus_Target
     4300038: Top_Blocker_Right
     4300040: Top_Blocker_Left
+    4300042: ScoreBoard
     9500000: //RootNode
   materials:
     importMaterials: 1

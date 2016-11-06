@@ -7,11 +7,13 @@ public class GiveBalls : MonoBehaviour {
     public GameObject bonusBallParticleSystem;
     BallsLeft ballsLeftScript;
 
+    //Zoekt het BallsLEft script op.
     void Start()
     {
         ballsLeftScript = GameObject.Find("Manager").GetComponent<BallsLeft>();
     }
 
+    //Wanneer de pinball hem aanraakt krijgt de speler een extra balletje en zal hij een leuk ParticleSystem spawnen;
     void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.tag == "Pinball")

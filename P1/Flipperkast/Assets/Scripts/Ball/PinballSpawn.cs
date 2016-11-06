@@ -8,11 +8,13 @@ public class PinballSpawn : MonoBehaviour
     public GameObject prefab;
     Transform pinballSpawn;
 
+    //Zoekt de PinballSpawn GameObject op.
     void Start ()
     {
         pinballSpawn = GameObject.Find("PinballSpawn").GetComponent<Transform>();
     }
     
+    //Wanneer aangeroepen zal hij een pinball spawnen op de plek van de PinballSpawn GameObject en geeft hem een velocity naar voren mee.
     public void SpawnPinball ()
     {
 
